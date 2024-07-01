@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\S.I-AgenciaViajes.props" />
+</Project>
