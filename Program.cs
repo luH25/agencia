@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 using S.I_AgenciaViajes.Contexto;
 
@@ -11,6 +12,14 @@ builder .Services.AddDbContext<MyContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("CadenaConexion"));
 });
 
+//
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(option =>
+    {
+        option.LoginPath = "/Login/Index";
+        option.ExpireTimeSpan = TimeSpan.FromMinutes(30);
+        option.AccessDeniedPath = "/Home/Privacy";
+    });
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -25,11 +34,12 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+app.UseAuthentication();
 
 app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Login}/{action=Index}/{id?}");
 
 app.Run();

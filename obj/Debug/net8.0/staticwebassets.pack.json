@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\AgenciaViajes.bundle.scp.css"
     },
     {
+      "Id": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyectoV\\S.I-AgenciaViajes\\wwwroot\\comprobantes\\c01c6b20-e4e7-4281-a6f7-04c8f248cbeb.png",
+      "PackagePath": "staticwebassets\\comprobantes\\c01c6b20-e4e7-4281-a6f7-04c8f248cbeb.png"
+    },
+    {
+      "Id": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyectoV\\S.I-AgenciaViajes\\wwwroot\\comprobantes\\fcf67698-1254-4b14-b790-0bb7b8b2a12e.jpg",
+      "PackagePath": "staticwebassets\\comprobantes\\fcf67698-1254-4b14-b790-0bb7b8b2a12e.jpg"
+    },
+    {
       "Id": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyectoV\\S.I-AgenciaViajes\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

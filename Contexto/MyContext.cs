@@ -10,6 +10,7 @@ namespace S.I_AgenciaViajes.Contexto
         
         }
         public DbSet<Usuario> Usuarios { get; set; }
-
+        public DbSet<PaqueteTuristico> Paquetes { get; set; }
+        public DbSet<Reserva> Reservas {  get; set; }
     }
 }

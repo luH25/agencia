@@ -1,0 +1,71 @@
+﻿@using S.I_AgenciaViajes.Dto
+@model S.I_AgenciaViajes.Models.Reserva
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Reserva</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NombreTurista" class="control-label"></label>
+                <input asp-for="NombreTurista" class="form-control" />
+                <span asp-validation-for="NombreTurista" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CantidadTuristas" class="control-label"></label>
+                <input asp-for="CantidadTuristas" class="form-control" />
+                <span asp-validation-for="CantidadTuristas" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NroReserva" class="control-label"></label>
+                <input asp-for="NroReserva" class="form-control" />
+                <span asp-validation-for="NroReserva" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Destino" class="control-label"></label>
+                <input asp-for="Destino" class="form-control" />
+                <span asp-validation-for="Destino" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CostoTotal" class="control-label"></label>
+                <input asp-for="CostoTotal" class="form-control" />
+                <span asp-validation-for="CostoTotal" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fecha" class="control-label"></label>
+                <input asp-for="Fecha" class="form-control" />
+                <span asp-validation-for="Fecha" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EstadoViaje" class="control-label"></label>
+                <select asp-for="EstadoViaje" class="form-control" asp-items="Html.GetEnumSelectList<EstadoViaje>()">
+                    <option value="" Selecione el estado de la reserva></option>
+                </select>
+                <span asp-validation-for="EstadoViaje" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ImageFile" class="control-label"></label>
+                <input asp-for="ImageFile" class="form-control" />
+                
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
