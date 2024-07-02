@@ -1,0 +1,45 @@
+[33mcommit 8cccf4cfeecaeb82c1b86333216593531c5a8ba7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mJesus_Mamani[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/Jesus_Mamani[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/Diego_Arias[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 12cc80e 5e4f311
+Author: Lilian_Herrera <lilianherrera14.lh@gmail.com>
+Date:   Mon Jul 1 17:24:43 2024 -0400
+
+    Merge pull request #3 from luH25/Ricardo_Antezana
+    
+    prueba
+
+[33mcommit 5e4f311fe7c609e9378b7ae3bcabbcfe32dba71e[m[33m ([m[1;31morigin/Ricardo_Antezana[m[33m)[m
+Author: lili_lh <lilianherrera14.lh@gmail.com>
+Date:   Mon Jul 1 17:22:29 2024 -0400
+
+    prueba
+
+[33mcommit 12cc80ebb37e6d57d45cc10b16dac06d63367f0a[m
+Merge: 11631ee 9d068a1
+Author: lili_lh <lilianherrera14.lh@gmail.com>
+Date:   Mon Jul 1 17:08:45 2024 -0400
+
+    Merge branch 'main' of https://github.com/luH25/agencia
+
+[33mcommit 11631eef292bfff48405122e1af6ad8b6185da32[m
+Author: lili_lh <lilianherrera14.lh@gmail.com>
+Date:   Mon Jul 1 17:08:19 2024 -0400
+
+    desarrollo de codigo
+
+[33mcommit 9d068a176f34ac161a25e39002684a7394f6f623[m
+Author: lili_lh <lilianherrera14.lh@gmail.com>
+Date:   Mon Jul 1 16:34:45 2024 -0400
+
+    Restauracion de datos eliminados
+
+[33mcommit bd2ec84b5a59c47456377e5b2c0d5ff3df2f634f[m
+Author: lili_lh <lilianherrera14.lh@gmail.com>
+Date:   Fri Jun 21 22:41:54 2024 -0400
+
+    Eliminacion del contenido
+
+[33mcommit 80cedaf3a027f227c8a5ebb390ba9600e2aeaf24[m
+Author: lili_lh <lilianherrera14.lh@gmail.com>
+Date:   Thu May 30 17:20:15 2024 -0400
+
+    creacion de proyecto y conexion con base de datos
