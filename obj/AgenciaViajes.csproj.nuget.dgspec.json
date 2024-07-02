@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyectoV\\S.I-AgenciaViajes\\AgenciaViajes.csproj": {}
+    "C:\\Users\\VICTUS\\Desktop\\agencia\\agencia\\AgenciaViajes.csproj": {}
   },
   "projects": {
-    "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyectoV\\S.I-AgenciaViajes\\AgenciaViajes.csproj": {
+    "C:\\Users\\VICTUS\\Desktop\\agencia\\agencia\\AgenciaViajes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyectoV\\S.I-AgenciaViajes\\AgenciaViajes.csproj",
+        "projectUniqueName": "C:\\Users\\VICTUS\\Desktop\\agencia\\agencia\\AgenciaViajes.csproj",
         "projectName": "AgenciaViajes",
-        "projectPath": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyectoV\\S.I-AgenciaViajes\\AgenciaViajes.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyectoV\\S.I-AgenciaViajes\\obj\\",
+        "projectPath": "C:\\Users\\VICTUS\\Desktop\\agencia\\agencia\\AgenciaViajes.csproj",
+        "packagesPath": "C:\\Users\\VICTUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VICTUS\\Desktop\\agencia\\agencia\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\VICTUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
