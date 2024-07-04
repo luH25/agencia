@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\views\\reservas1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|solutionrelative:views\\reservas1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\views\\recepcionista\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|solutionrelative:views\\recepcionista\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|solutionrelative:views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\views\\administrador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|solutionrelative:views\\administrador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,10 +58,6 @@
       "RelativeMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|solutionrelative:wwwroot\\css\\print.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\views\\reservas1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|solutionrelative:views\\reservas1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|solutionrelative:models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -44,10 +68,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\models\\paqueteturistico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|solutionrelative:models\\paqueteturistico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\views\\recepcionista\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|solutionrelative:views\\recepcionista\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\controllers\\reservas1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,28 +86,12 @@
       "RelativeMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|solutionrelative:views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|solutionrelative:views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\controllers\\recepcionistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|solutionrelative:controllers\\recepcionistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\views\\administrador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|solutionrelative:views\\administrador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB121A5D-41A7-4382-A77F-7C1303D02AE4}|AgenciaViajes.csproj|d:\\fni\\sis\\actualizacion tecnologica\\proyecto\\proyecto 2.0\\correciones\\agencia\\dto\\estadoviaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -117,7 +121,159 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T05:52:25.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Reservas1\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservas1\\Index.cshtml",
+              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Reservas1\\Index.cshtml",
+              "RelativeToolTip": "Views\\Reservas1\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEYAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T12:39:02.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T00:46:13.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Administrador\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Administrador\\Index.cshtml",
+              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Administrador\\Index.cshtml",
+              "RelativeToolTip": "Views\\Administrador\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T02:45:45.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:08:42.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T06:17:39.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Recepcionista\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Recepcionista\\Index.cshtml",
+              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Recepcionista\\Index.cshtml",
+              "RelativeToolTip": "Views\\Recepcionista\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T05:27:13.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T03:42:45.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Usuarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuarios\\Create.cshtml",
+              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Usuarios\\Create.cshtml",
+              "RelativeToolTip": "Views\\Usuarios\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T06:00:21.984Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Reservas1\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservas1\\Details.cshtml",
+              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Reservas1\\Details.cshtml",
+              "RelativeToolTip": "Views\\Reservas1\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:07:02.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "print.css",
+              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\wwwroot\\css\\print.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\print.css",
+              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\wwwroot\\css\\print.css",
+              "RelativeToolTip": "wwwroot\\css\\print.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-02T18:22:11.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "Models\\Reserva.cs",
+              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Models\\Reserva.cs",
+              "RelativeToolTip": "Models\\Reserva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:12:05.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Usuario.cs",
               "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Models\\Usuario.cs",
@@ -130,80 +286,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Reserva.cs",
-              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Models\\Reserva.cs",
-              "RelativeDocumentMoniker": "Models\\Reserva.cs",
-              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Models\\Reserva.cs",
-              "RelativeToolTip": "Models\\Reserva.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T01:12:05.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
-              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "Views\\Login\\Index.cshtml",
-              "ViewState": "AQIAAI8AAAAAAAAAAAAAAAkAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T03:42:45.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "print.css",
-              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\wwwroot\\css\\print.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\print.css",
-              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\wwwroot\\css\\print.css",
-              "RelativeToolTip": "wwwroot\\css\\print.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-02T18:22:11.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Reservas1\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Reservas1\\Details.cshtml",
-              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Reservas1\\Details.cshtml",
-              "RelativeToolTip": "Views\\Reservas1\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-02T17:07:02.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Reservas1\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Reservas1\\Index.cshtml",
-              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Reservas1\\Index.cshtml",
-              "RelativeToolTip": "Views\\Reservas1\\Index.cshtml",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAswE0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T12:39:02.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Usuarios\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Usuarios\\Create.cshtml",
-              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Usuarios\\Create.cshtml",
-              "RelativeToolTip": "Views\\Usuarios\\Create.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T06:00:21.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
@@ -211,12 +293,11 @@
               "RelativeToolTip": "Controllers\\LoginController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T03:37:33.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T03:37:33.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -226,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "qr.min.js",
               "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\wwwroot\\js\\qr.min.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\qr.min.js",
@@ -238,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
@@ -251,18 +332,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAABfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T05:52:25.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "Reservas1Controller.cs",
               "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Controllers\\Reservas1Controller.cs",
               "RelativeDocumentMoniker": "Controllers\\Reservas1Controller.cs",
@@ -274,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Reservas1\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Reservas1\\Create.cshtml",
@@ -286,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Reservas1\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Reservas1\\Edit.cshtml",
@@ -298,19 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Usuarios\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Usuarios\\Index.cshtml",
-              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Usuarios\\Index.cshtml",
-              "RelativeToolTip": "Views\\Usuarios\\Index.cshtml",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAABQAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T06:17:39.935Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "RecepcionistaController.cs",
               "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Controllers\\RecepcionistaController.cs",
               "RelativeDocumentMoniker": "Controllers\\RecepcionistaController.cs",
@@ -322,43 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Recepcionista\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Recepcionista\\Index.cshtml",
-              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Recepcionista\\Index.cshtml",
-              "RelativeToolTip": "Views\\Recepcionista\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T05:27:13.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T16:08:42.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Administrador\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Administrador\\Index.cshtml",
-              "ToolTip": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Views\\Administrador\\Index.cshtml",
-              "RelativeToolTip": "Views\\Administrador\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T02:45:45.364Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "PaqueteTuristico.cs",
               "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Models\\PaqueteTuristico.cs",
               "RelativeDocumentMoniker": "Models\\PaqueteTuristico.cs",
@@ -370,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "EstadoViaje.cs",
               "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Dto\\EstadoViaje.cs",
               "RelativeDocumentMoniker": "Dto\\EstadoViaje.cs",
@@ -382,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "CargoEnum.cs",
               "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\Dto\\CargoEnum.cs",
               "RelativeDocumentMoniker": "Dto\\CargoEnum.cs",
@@ -394,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "AgenciaViajes.csproj",
               "DocumentMoniker": "D:\\FNI\\SIS\\Actualizacion tecnologica\\PROYECTO\\proyecto 2.0\\Correciones\\agencia\\AgenciaViajes.csproj",
               "RelativeDocumentMoniker": "AgenciaViajes.csproj",
