@@ -1,8 +1,131 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paquetes Turísticos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: skyblue;
+        }
+
+        .packages {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .highlighted-packages {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+
+        .package {
+            margin: 10px;
+            text-align: center;
+        }
+
+            .package img {
+                width: 300px;
+                height: 200px;
+                object-fit: cover;
+            }
+
+        .list-packages {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .list-package {
+            border: 1px solid #ccc;
+            padding: 15px;
+            margin: 10px;
+            width: calc(33% - 40px);
+            box-sizing: border-box;
+        }
+
+            .list-package p {
+                margin: 5px 0;
+            }
+
+            .list-package span {
+                font-weight: bold;
+            }
+
+            .list-package button {
+                background-color: #007BFF;
+                color: #fff;
+                border: none;
+                padding: 10px;
+                cursor: pointer;
+            }
+
+        footer {
+            padding: 20px;
+            background-color: skyblue;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Encuentra los mejores destinos para tu vacación</h1>
+        <p>El mejor precio lo encuentras aquí</p>
+    </header>
+    <section class="packages">
+        
+        <div class="list-packages">
+            <div class="list-package">
+                <p>Hospedaje Cartagena de Indias | GIO Hotel Tama Cartagena 3*</p>
+                <p>US$45 <span>Por persona</span></p>
+                <button>Más info</button>
+            </div>
+            <div class="list-package">
+                <p>Hospedaje en Miami FL | Henrosa Hotel 3*</p>
+                <p>US$64 <span>Por persona</span></p>
+                <button>Más info</button>
+            </div>
+            <div class="list-package">
+                <p>Hospedaje en Punta Cana | Jewel Palm Beach 4*</p>
+                <p>US$98 <span>Por persona</span></p>
+                <button>Más info</button>
+            </div>
+            <div class="list-package">
+                <p>Hospedaje en Sao Paulo | Comfort Hotel Ibirapuera 3*</p>
+                <p>US$42 <span>Por persona</span></p>
+                <button>Más info</button>
+            </div>
+            <div class="list-package">
+                <p>Hospedaje en Cancún | Dos Playas by Faranda All Inclusive 3*</p>
+                <p>US$87 <span>Por persona</span></p>
+                <button>Más info</button>
+            </div>
+            <div class="list-package">
+                <p>Hospedaje en Buenos Aires | M Concept Hotel 4*</p>
+                <p>US$35 <span>Por persona</span></p>
+                <button>Más info</button>
+            </div>
+        </div>
+    </section>
+    <footer>
+        <h2>NUESTRO PROPÓSITO</h2>
+        <p>Creemos firmemente que se puede cambiar el mundo a través de los viajes. Creemos que los viajes son la fuerza del bien que nos transforma. Si más personas viajan, tendremos un país más tolerante, próspero y feliz. Creemos que los viajes deben dejar de ser un privilegio, y convertirse en un derecho.</p>
+    </footer>
+</body>
+</html>
