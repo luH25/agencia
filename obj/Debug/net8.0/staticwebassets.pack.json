@@ -17,12 +17,28 @@
       "PackagePath": "staticwebassets\\css\\print.css"
     },
     {
+      "Id": "C:\\Users\\VICTUS\\Desktop\\agencia final\\agencia\\wwwroot\\css\\receptionist-style.css",
+      "PackagePath": "staticwebassets\\css\\receptionist-style.css"
+    },
+    {
       "Id": "C:\\Users\\VICTUS\\Desktop\\agencia final\\agencia\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\VICTUS\\Desktop\\agencia final\\agencia\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
       "Id": "C:\\Users\\VICTUS\\Desktop\\agencia final\\agencia\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\Desktop\\agencia final\\agencia\\wwwroot\\images\\Imagen de WhatsApp 2024-07-03 a las 19.17.39_f0edae47.jpg",
+      "PackagePath": "staticwebassets\\images\\Imagen de WhatsApp 2024-07-03 a las 19.17.39_f0edae47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VICTUS\\Desktop\\agencia final\\agencia\\wwwroot\\images\\logo2.jpg",
+      "PackagePath": "staticwebassets\\images\\logo2.jpg"
     },
     {
       "Id": "C:\\Users\\VICTUS\\Desktop\\agencia final\\agencia\\wwwroot\\js\\qr.min.js",

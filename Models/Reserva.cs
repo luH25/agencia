@@ -10,10 +10,10 @@ namespace S.I_AgenciaViajes.Models
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         [Required]
-        public string? NombreTurista {  get; set; }
+        public string? NombreTurista { get; set; }
         [Required]
         public int CantidadTuristas { get; set; }
-        public int NroReserva {  get; set; }
+        public int NroReserva { get; set; }
         [Required]
         public string? Destino { get; set; }
         [Required]
@@ -23,9 +23,14 @@ namespace S.I_AgenciaViajes.Models
         [Required]
         public EstadoViaje EstadoViaje { get; set; }
 
+        //atributs computados
+        
+
         public string? ComprobantePago { get; set; }
         [NotMapped]
         [Display(Name = "Cargar Comprobante")]
         public IFormFile? ImageFile { get; set; }
+
+
     }
 }
