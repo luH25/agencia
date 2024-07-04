@@ -17,91 +17,91 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = S.I_AgenciaViajes
 build_property.RootNamespace = S.I_AgenciaViajes
-build_property.ProjectDir = C:\Users\VICTUS\Desktop\agencia\agencia\
+build_property.ProjectDir = D:\FNI\SIS\Actualizacion tecnologica\PROYECTO\proyecto 2.0\Correciones\agencia\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\VICTUS\Desktop\agencia\agencia
+build_property.MSBuildProjectDirectory = D:\FNI\SIS\Actualizacion tecnologica\PROYECTO\proyecto 2.0\Correciones\agencia
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/VICTUS/Desktop/agencia/agencia/Views/Administrador/Index.cshtml]
+[D:/FNI/SIS/Actualizacion tecnologica/PROYECTO/proyecto 2.0/Correciones/agencia/Views/Administrador/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYWRvclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VICTUS/Desktop/agencia/agencia/Views/Home/Index.cshtml]
+[D:/FNI/SIS/Actualizacion tecnologica/PROYECTO/proyecto 2.0/Correciones/agencia/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VICTUS/Desktop/agencia/agencia/Views/Home/Privacy.cshtml]
+[D:/FNI/SIS/Actualizacion tecnologica/PROYECTO/proyecto 2.0/Correciones/agencia/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VICTUS/Desktop/agencia/agencia/Views/Login/Index.cshtml]
+[D:/FNI/SIS/Actualizacion tecnologica/PROYECTO/proyecto 2.0/Correciones/agencia/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VICTUS/Desktop/agencia/agencia/Views/Recepcionista/Index.cshtml]
+[D:/FNI/SIS/Actualizacion tecnologica/PROYECTO/proyecto 2.0/Correciones/agencia/Views/Recepcionista/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXBjaW9uaXN0YVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VICTUS/Desktop/agencia/agencia/Views/Reservas1/Create.cshtml]
+[D:/FNI/SIS/Actualizacion tecnologica/PROYECTO/proyecto 2.0/Correciones/agencia/Views/Reservas1/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXMxXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VICTUS/Desktop/agencia/agencia/Views/Reservas1/Delete.cshtml]
+[D:/FNI/SIS/Actualizacion tecnologica/PROYECTO/proyecto 2.0/Correciones/agencia/Views/Reservas1/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXMxXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VICTUS/Desktop/agencia/agencia/Views/Reservas1/Details.cshtml]
+[D:/FNI/SIS/Actualizacion tecnologica/PROYECTO/proyecto 2.0/Correciones/agencia/Views/Reservas1/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXMxXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VICTUS/Desktop/agencia/agencia/Views/Reservas1/Edit.cshtml]
+[D:/FNI/SIS/Actualizacion tecnologica/PROYECTO/proyecto 2.0/Correciones/agencia/Views/Reservas1/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXMxXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VICTUS/Desktop/agencia/agencia/Views/Reservas1/Index.cshtml]
+[D:/FNI/SIS/Actualizacion tecnologica/PROYECTO/proyecto 2.0/Correciones/agencia/Views/Reservas1/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXMxXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VICTUS/Desktop/agencia/agencia/Views/Shared/Error.cshtml]
+[D:/FNI/SIS/Actualizacion tecnologica/PROYECTO/proyecto 2.0/Correciones/agencia/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VICTUS/Desktop/agencia/agencia/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/FNI/SIS/Actualizacion tecnologica/PROYECTO/proyecto 2.0/Correciones/agencia/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VICTUS/Desktop/agencia/agencia/Views/Usuarios/Create.cshtml]
+[D:/FNI/SIS/Actualizacion tecnologica/PROYECTO/proyecto 2.0/Correciones/agencia/Views/Usuarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VICTUS/Desktop/agencia/agencia/Views/Usuarios/Delete.cshtml]
+[D:/FNI/SIS/Actualizacion tecnologica/PROYECTO/proyecto 2.0/Correciones/agencia/Views/Usuarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VICTUS/Desktop/agencia/agencia/Views/Usuarios/Details.cshtml]
+[D:/FNI/SIS/Actualizacion tecnologica/PROYECTO/proyecto 2.0/Correciones/agencia/Views/Usuarios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VICTUS/Desktop/agencia/agencia/Views/Usuarios/Edit.cshtml]
+[D:/FNI/SIS/Actualizacion tecnologica/PROYECTO/proyecto 2.0/Correciones/agencia/Views/Usuarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VICTUS/Desktop/agencia/agencia/Views/Usuarios/Index.cshtml]
+[D:/FNI/SIS/Actualizacion tecnologica/PROYECTO/proyecto 2.0/Correciones/agencia/Views/Usuarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VICTUS/Desktop/agencia/agencia/Views/_ViewImports.cshtml]
+[D:/FNI/SIS/Actualizacion tecnologica/PROYECTO/proyecto 2.0/Correciones/agencia/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VICTUS/Desktop/agencia/agencia/Views/_ViewStart.cshtml]
+[D:/FNI/SIS/Actualizacion tecnologica/PROYECTO/proyecto 2.0/Correciones/agencia/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VICTUS/Desktop/agencia/agencia/Views/Shared/_Layout.cshtml]
+[D:/FNI/SIS/Actualizacion tecnologica/PROYECTO/proyecto 2.0/Correciones/agencia/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3zq5ihnt81
